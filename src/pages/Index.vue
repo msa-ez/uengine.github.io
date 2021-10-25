@@ -2,7 +2,7 @@
   <Layout>
     <PageHeader style="height:600px;">
       <template v-slot:image>
-        <g-image style="-webkit-filter: blur(5px); -moz-filter: blur(5px); -o-filter: blur(5px); -ms-filter: blur(5px); filter: blur(5px);" src="~/assets/images/marvin-meyer-SYTO3xs06fU-unsplash.jpg" />
+        <g-image style="-webkit-filter: blur(1px); -moz-filter: blur(1px); -o-filter: blur(1px); -ms-filter: blur(1px); filter: blur(1px);" src="~/assets/images/main-image.jpg" />
       </template>
       <template v-slot:content>
         <p class="text-4xl md:text-6xl">

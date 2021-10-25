@@ -57,7 +57,7 @@ module.exports = {
       use: '@gridsome/source-filesystem',
       options: {
         typeName: 'Article',
-        baseDir: './content/articles',
+        baseDir: './content/products',
         path: '**/*.md',
         refs: {
           tags: {
@@ -127,9 +127,14 @@ module.exports = {
     }
   ],
   templates: {
-    Article: [{
-      path: '/articles/:title'
-    }],
+    Article: [
+        {
+          path: (node) => {
+            const postPathPrefix = /^\/content\/posts/;
+            return node.path.replace(postPathPrefix, '');
+        }
+      }
+    ],
     Tag: [
       {
         path: '/tag/:title',
