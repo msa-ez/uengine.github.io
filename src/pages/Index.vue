@@ -57,7 +57,7 @@ import SectionOpenSource from '~/components/sections/OpenSource'
 
 export default {
   metaInfo: {
-    title: 'Learn something new'
+    title: 'uEngine.io'
   },
   components: {
     PageHeader,

@@ -23,7 +23,7 @@ var embedConfig = {
 };
 
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: '',
   permalinks: {
     trailingSlash: false
   },
