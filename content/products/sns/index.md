@@ -31,18 +31,24 @@ createdAt: 2019-11-05 11:26:00
    <h2 class="section-title text-uppercase">Features</h2>
   </div>
 
-  <div class="row " style="margin-top: 35px width:50%;">
-   <div class="col-md-7">
-    <h2 class="font-30 mb-30">프로세스 개선</h2>
-  <p>코디는 그룹 내 사용하고 있는 혹은 사용하고자 하는 프로세스의 사용이 가능합니다.</p>   
-  <p>휴가신청 및 일정관리, 연락처 관리부터 결재, 영업관리 등 그룹 내에서 등록한 프로세스의 실행이 즉각적으로 이루어지며, </p>   
-  <p>플랫폼 내에서 업무의 진행 사항을 확인 할 수 있는 등 기존 BPM의 이점을 그대로 활용 가능합니다.</p>
-   </div>
+<!-- 프로세스 개선 시작 -->
+<div class="row clearfix" style="margin-top: 35px;">
+<div class="col-md-7 md-text-left">
+<h2 class="font-30 mb-30">프로세스 개선</h2>
+<div style="font-size:16px;">
+<p>코디는 그룹 내 사용하고 있는 혹은 사용하고자 하는 프로세스의 사용이 가능합니다.</p>   
+<p>휴가신청 및 일정관리, 연락처 관리부터 결재, 영업관리 등 그룹 내에서 등록한 프로세스의 실행이 즉각적으로 이루어지며, </p>   
+<p>플랫폼 내에서 업무의 진행 사항을 확인 할 수 있는 등 기존 BPM의 이점을 그대로 활용 가능합니다.</p>
+</div>
+</div>
+<div class="md-image-right">
 
-  <div class="col-md-5">
-    <img src="../img/sns-img/index_con05.jpg" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
-  </div>
-  </div>
+![](../img/sns-img/index_con05.jpg)
+
+</div>
+</div>
+<!-- 프로세스 개선 끝 -->
+
 
   <div class="row" style="margin-top: 35px">
    <div class="col-md-5">
