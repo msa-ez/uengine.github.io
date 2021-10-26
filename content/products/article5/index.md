@@ -1,7 +1,8 @@
 ---
-title: Iure exercitationem dolore ex
+title: PaaS 그리고 DevOps 환경
 tags: tag1, tag2, tag3
-excerpt: Quaerat nihil unde doloribus neque at quia. Et dignissimos tempora nam. Quos velit non est ut quam.
+excerpt: 유엔진의 PaaS환경인 [가루다]는 도커엔진과 유엔진의 클라우드 플랫폼, 그리고 유엔진 BPMS 를 통하여 자동화된 운영 프로세스를 지원합니다. 
+ MSA 플랫폼, DDD 분석 기법, 그리고 BPM을 기반한 수준 높은 운영자동화 환경을 구축하십시오.
 createdAt: 2019-11-06 11:26:00
 
 ---

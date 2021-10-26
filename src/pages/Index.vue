@@ -32,18 +32,6 @@
     <div class="container text-center mx-auto">
       <SectionLatestArticles />
     </div>
-
-    <SectionContribute />
-
-    <SectionThinkDifferent />
-    
-    <div class="container text-center mx-auto">
-      <SectionLatestNews />
-    </div>
-
-    
-
-    <SectionOpenSource />
   </Layout>
 </template>
 
