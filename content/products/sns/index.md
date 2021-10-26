@@ -1,7 +1,8 @@
 ---
-title: tttt
-tags: tag2, tag3
-excerpt: Sit ab aliquid in mollitia eveniet corporis ut. Id alias natus eaque voluptas voluptates. Maxime in similique architecto minima et odio nihil tempore beatae. Autem et iusto voluptas fugit nesciunt facilis debitis eius amet. Ipsam est enim dicta deserunt deserunt repellat qui. Dolor omnis sit soluta est doloribus beatae voluptatum nisi.
+title: 기업용 소셜 네트워크
+tags:
+excerpt: 유엔진의 [프로세스 코디]는 대기업 그룹사와 다양한 기관에서 검증된 기업용 소셜 네트워크 솔루션으로 업무적 맥락을 이해하면서 수평적 협업을 
+  최대한으로 이끌어내도록 UX가 설계되었습니다. 
 createdAt: 2019-11-05 11:26:00
 ---
 

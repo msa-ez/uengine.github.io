@@ -1,7 +1,8 @@
 ---
-title: Nam qui ipsa est inventore
-tags: ['tag3', 'tag4']
-excerpt: Quae deserunt sed reiciendis error laboriosam sequi. Possimus aut quibusdam vel nihil distinctio. Voluptate minima explicabo sed sit nemo est expedita. Eum accusantium fugit sequi et odit nesciunt magni suscipit.
+title: OMG Standard-based ALM
+tags: 
+excerpt: 유엔진은 KAIST 와 함께 OMG Essence를 적용하여 소프트웨어 진척도를 관리하고 다양한 방법론을 BPMN 프로세스로 각 프로젝트 담당자에게 
+  직무와 완료 조건 (체크포인트) 보내어 어려운 소프트웨어 프로세스를 관리할 수 있도록 해주는 세계최초의 도구인 Essencia 를 제공하고 있습니다. 
 createdAt: 2019-11-04 11:26:00
 
 ---
