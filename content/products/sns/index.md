@@ -1,98 +1,106 @@
 ---
 title: 기업용 소셜 네트워크
-tags:
+tags: 
 excerpt: 유엔진의 [프로세스 코디]는 대기업 그룹사와 다양한 기관에서 검증된 기업용 소셜 네트워크 솔루션으로 업무적 맥락을 이해하면서 수평적 협업을 
   최대한으로 이끌어내도록 UX가 설계되었습니다. 
 createdAt: 2019-11-05 11:26:00
 ---
+<div style="width:100%;">
+<div class="text-left ">
+  <div class="text-4xl md:text-6xl">CODI</div>
+<p class="text-1xl md:text-2xl">
+  기업의 프로세스는 더이상 내부 통제와 KPI 를 통해서만 끌어올리는데는 한계에 도달하였습니다. 자발적인 지식공유, 협업, 상호존중의 문화, 보다 수평적인 커뮤니케이션에 의한 집단지성을 이끌어내기 위하여 선진 기업들은 Enterprise 2.0에 주목하였습니다. 더이상 기존의 탑-다운식 정보흐름의 그룹웨어나 포탈은 세련된 여러분의 임직원들의 가능성을 최대한 발휘하게 하지 못합니다. 유엔진의 [프로세스 코디]는 대기업 그룹사와 다양한 기관에서 검증된 기업용 소셜 네트워크 솔루션으로 업무적 맥락을 이해하면서 수평적 협업을 최대한으로 이끌어내도록 UX가 설계되었습니다. 또한 [uEngine BPM] 과 연계되어 통제와 혁신의 밸런스를 유지할 수 있도록 합니다.
+</p>
+<iframe style="width:100%; height:300px;" src="https://www.youtube.com/embed/pSm6hbfNn20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+  
+<div>
+  <a href="https://github.com/TheOpenCloudEngine/process-codi" class="md-button" style="vertical-align:middle">
+    <span>Github</span>
+  </a>
+  <a href="https://uengine.org/assets/docs/CODI_install.pdf" class="md-button" style="vertical-align:middle">
+    <span>Guide</span>
+  </a>
+</div>
+  
+</div>
+<section class="padding-top-110">
+ <div class="container">
+  <div class="text-center ">
+   <h2 class="section-title text-uppercase">Features</h2>
+  </div>
 
-## Ipsum fugit ab dolor nesciunt magnam
+  <div class="row " style="margin-top: 35px width:50%;">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">프로세스 개선</h2>
+  <p>코디는 그룹 내 사용하고 있는 혹은 사용하고자 하는 프로세스의 사용이 가능합니다.</p>   
+  <p>휴가신청 및 일정관리, 연락처 관리부터 결재, 영업관리 등 그룹 내에서 등록한 프로세스의 실행이 즉각적으로 이루어지며, </p>   
+  <p>플랫폼 내에서 업무의 진행 사항을 확인 할 수 있는 등 기존 BPM의 이점을 그대로 활용 가능합니다.</p>
+   </div>
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. _Aenean ultricies mi vitae est._ Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, `commodo vitae`, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. [Donec non enim](#) in turpis pulvinar facilisis. Ut felis.
+  <div class="col-md-5">
+    <img src="../img/sns-img/index_con05.jpg" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+  </div>
+  </div>
 
-1.  Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2.  Aliquam tincidunt mauris eu risus.
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/sns/index_con01.jpg" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">소셜 워크플로우(UC)</h2>
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.
+<p>코그룹 내 친구를 추가하여 지식을 공유 할 수 있고 소셜 네트워크의 친구들과의 커뮤니케이션도 업무에 활용해 보세요. </p>   
+<p>소셜네트워크의 친구와 채팅을 통해 혹은 나의 업무를 담벼락에 공유하여 소셜 네트워크 친구들의 의견을 업무에 적극 수용 할 수 있습니다.</p>  
+<p>멀리 떨어진 친구와는 화상회의를 통하여 소통이 가능합니다. 기업 내 혹은 외부의 넓은 네트워크망을 이용하여 창의적인 의사소통으로 향상된 업무능력을 선보이시길 바랍니다.<p>
+   </div>
+  </div>
 
-### Aliquid nihil laudantium debitis saepe
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">파일(문서)관리</h2>
 
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-*   Aliquam tincidunt mauris eu risus.
+<p>코디는 컨텐츠의 한 영역으로 문서를 관리합니다.</p>
+<p>이미지, 워드, 파워포인트, 엑셀 등 문서의 미리보기를 지원하여 다운로드 없이 플랫폼 내에서 문서의 내용을 손쉽게 확인 할 수 있습니다. </p> 
+<p>문서의 미리보기 영역에 직접 의견을 공유할 수 있습니다. 원하는 포지션에 “코멘트 달기”를 통해서 의견을 공유해 보세요. 또한 문서의 고급 관리로 문서를 버전별로 업로드 가능합니다. 이전에 업로드한 문서의 손실 없이 미리보기 및 다운로드 할 수 있습니다. 또한 문서 내 키워드 검색이 가능합니다.</p>    
+<p>이제 코디에서 문서에 실시간으로 의견을 공유하고 표시된 영역의 화면을 캡쳐하여 원활한 소통의 도구로 활용해보세요.</p>
 
-```js{3,4,15-25}
+   </div>
 
-import {x, y} as p from 'point';
-const ANSWER = 42;
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/sns/index_con02.jpg" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+  </div>
 
-class Car extends Vehicle {
-  constructor(speed, cost) {
-    super(speed);
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/sns/index_con03.jpg" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
 
-    var c = Symbol('cost');
-    this[c] = cost;
+   <div class="col-md-7">
+  <h2 class="font-30 mb-30">개인직무 및 프로젝트 관리</h2>
 
-    this.intro = `This is a car runs at
-      ${speed}.`;
-  }
-}
+<p>담벼락에 달력을 통해 자신의 업무를 효과적으로 관리 할 수 있습니다.</p> 
+<p>캘린더의 업무를 등록하고, 알림 예약을 통해 지정한 시간에 업무 알림을 받을 수 있습니다.</p>
+<p>자신이 진행 하여야 할 업무는 “내가 해야할일(TODO List)”에서 따로 확인 할 수 있으며, 간트차트를 통하여 프로젝트의 진행상태를 모니터링 할 수 있습니다.</p>
+   </div>
 
-for (let num of [1, 2, 3]) {
-  console.log(num + 0b111110111);
-}
+  </div>
 
-function $initHighlight(block, flags) {
-  try {
-    if (block.className.search(/\bno\-highlight\b/) != -1)
-      return processBlock(block.function, true, 0x0F) + ' class=""';
-  } catch (e) {
-    /* handle exception */
-    var e4x =
-        <div>Example
-            <p>1234</p></div>;
-  }
-  for (var i = 0 / 2; i < classes.length; i++) {
-  // "0 / 2" should not be parsed as regexp
-    if (checkCondition(classes[i]) === undefined)
-      return /\d+[\s/]/g;
-  }
-  console.log(Array.every(classes, Boolean));
-}
+  <div class="row" style="margin-top: 35px">
+   <div class="col-md-7">
+    <h2 class="font-30 mb-30">집단지성/매시업</h2>
 
-export  $initHighlight;
-```
+<p>팀간 혹은 그룹간 더 나아가서 기업간의 공동 작업 공간을 구성합니다. 지식맵을 통하여 집단 지성의 커뮤니티를 구성 할 수 있습니다.</p>
+ <p>지식맵은 wiki의 컨텐츠, 슬라이드쉐어의 슬라이드, 유투브의 동영상, 구글의 이미지 등으로 외부의 컨텐츠의 활용이 가능합니다.</p>
+ <p>실시간으로 검색되는 컨텐츠를 이용하여 지식맵을 구성해 보세요.</p>
+   </div>
 
-#### Vero fugiat corrupti possimus sit voluptatem eos
+   <div class="col-md-5">
+    <img src="../assets/img/uengine/sns/index_con04.jpg" class="img-responsive " alt="Image" style="box-shadow : 2px 2px 10px silver">
+   </div>
+  </div>
+ </div><!-- /.container -->
 
-* List Element 1
-  * List Element 1-1
-  * List Element 1-2
-    * List Element 1-2-1
-    * List Element 1-2-2
-      * List Element 1-2-2-1
-    * List Element 1-2-3
-  * List Element 1-3
-* List Element 2
-
-### Porro et saepe alias ullam voluptatibus ut est
-
-Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
-Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
-
-Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
-
-## Eum eveniet optio neque
-
-### Est excepturi quia molestiae aut
-
-Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
-Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
-
-Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
-
-### Maiores tempora repellendus et
-
-Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
-Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
-
-Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
+</section>

@@ -1,8 +1,10 @@
 ---
-title: Nisi expedita quas assumenda tempora consequatur aut
-tags: tag1, tag2
-excerpt: Aliquid non qui pariatur. Aut pariatur dolores facilis exercitationem fuga. Est suscipit voluptas eos perspiciatis consequuntur ut illum aut aut. Et rerum rerum adipisci quia et facilis saepe. Aliquid consectetur amet debitis dolorem aut ut voluptatibus.
-createdAt: 2019-11-01 11:26:00
+title: 웹 컴포넌트 UI/UX 플랫폼
+tags: 
+excerpt: Metaworks4 프레임워크는 이러한 Web Component 표준을 지원하여 웹 개발을 태그의 이해만으로도 자바스크립트 등과 간섭없는 확장과 개발이 가능하게 합니다. 또한 MSA 의 사상에 근거한 단일페이지애플리케이션, 클라이언트 주도된 데이터 통합이 가능하며, Spring Hateoas 프레임워크와 연동되어 빠르게 기존 서비스들을 수준높은 REST 서비스 (Level3) 로 Expose 할 수 있습니다.
+
+createdAt: 2019-11-03 11:26:00
+
 ---
 
 ## Ipsum fugit ab dolor nesciunt magnam
@@ -80,34 +82,18 @@ Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis qu
 
 Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
 
-## Embed Examples
+## Eum eveniet optio neque
 
-### Youtube
+### Est excepturi quia molestiae aut
 
-https://www.youtube.com/embed/jMe6Y8GDVEI
+Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
+Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
 
-### Vimeo
+Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.
 
-https://vimeo.com/238447560
+### Maiores tempora repellendus et
 
-### JSFiddle
+Corrupti quia qui eaque. Et qui rerum qui dolores. Quasi doloribus ut omnis. Libero laudantium libero placeat dignissimos dolor provident ratione. 
+Dignissimos ut consequatur iste. Iusto rerum dignissimos labore. Vel officiis quisquam quos est enim tenetur. Facilis temporibus error nisi. 
 
-https://jsfiddle.net/5F5cQ/1/
-
-### Gist
-
-#### Simple
-
-https://gist.github.com/noxify/4663ce9b7bee433c125a2fc12150a043
-
-#### Only `file1.js` & Line Highlight
-
-https://gist.github.com/noxify/4663ce9b7bee433c125a2fc12150a043?file=file1.js&highlights=1,3,5-10,15-20
-
-### Giphy
-
-https://giphy.com/gifs/snl-saturday-night-live-season-42-l0Iy9Cmo47OtCv4xG
-
-### Codepen
-
-https://codepen.io/goodkatz/pen/LYPGxQz
+Incidunt illo voluptatem ad. Sit qui dolorem quas et ut earum eum tenetur. Qui rerum temporibus temporibus quibusdam. Aliquid delectus quae repudiandae illo rerum. Amet ipsa quia placeat consectetur temporibus facere dolores adipisci pariatur. Quo qui voluptatibus non.

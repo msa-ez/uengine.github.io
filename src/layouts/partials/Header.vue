@@ -5,7 +5,7 @@
         to="/"
         style="width:120px;"
         class="flex title-font font-medium items-center">
-        <g-image src="../../../img/logo.png"></g-image>
+        <g-image src="../../../img/logo_color.png"></g-image>
       </g-link>
 
       <nav class="header-links ml-auto flex flex-wrap items-center text-xl justify-center">
@@ -15,29 +15,91 @@
           exact>
           Home
         </g-link>
-        <g-link
-          to="/articles"
-          class="mr-5 hidden md:block"
-          exact>
-          Products
-        </g-link>
+        <div class="float-left">
+          <g-link
+            to="/articles"
+            class="mr-5 hidden md:block"
+            exact
+          >Products
+            <svg xmlns="http://www.w3.org/2000/svg"
+              width="24" height="24" 
+              viewBox="0 0 24 24" 
+              fill="none" 
+              stroke="currentColor" 
+              stroke-width="2" 
+              stroke-linecap="round" 
+              stroke-linejoin="round" 
+              class="svg-right feather feather-align-justify"
+            >
+              <line x1="21" y1="10" x2="3" y2="10"/>
+              <line x1="21" y1="6" x2="3" y2="6"/>
+              <line x1="21" y1="14" x2="3" y2="14"/>
+              <line x1="21" y1="18" x2="3" y2="18"/>
+            </svg>
+          </g-link>
+        </div>
         <g-link
           to="/resources"
           class="mr-5 hidden md:block"
-          exact>
-          Case Studies
+          exact
+        >Case Studies
+          <svg xmlns="http://www.w3.org/2000/svg"
+            width="24" height="24" 
+            viewBox="0 0 24 24" 
+            fill="none" 
+            stroke="currentColor" 
+            stroke-width="2" 
+            stroke-linecap="round" 
+            stroke-linejoin="round" 
+            class="svg-right feather feather-align-justify"
+          >
+            <line x1="21" y1="10" x2="3" y2="10"/>
+            <line x1="21" y1="6" x2="3" y2="6"/>
+            <line x1="21" y1="14" x2="3" y2="14"/>
+            <line x1="21" y1="18" x2="3" y2="18"/>
+          </svg>
         </g-link>
         <g-link
           to="/news"
           class="mr-5 hidden md:block"
-          exact>
-          Event
+          exact
+        >Event
+          <svg xmlns="http://www.w3.org/2000/svg"
+            width="24" height="24" 
+            viewBox="0 0 24 24" 
+            fill="none" 
+            stroke="currentColor" 
+            stroke-width="2" 
+            stroke-linecap="round" 
+            stroke-linejoin="round" 
+            class="svg-right feather feather-align-justify"
+          >
+            <line x1="21" y1="10" x2="3" y2="10"/>
+            <line x1="21" y1="6" x2="3" y2="6"/>
+            <line x1="21" y1="14" x2="3" y2="14"/>
+            <line x1="21" y1="18" x2="3" y2="18"/>
+          </svg>
         </g-link>
         <g-link
           to="/pages/contribute"
           class="mr-5 hidden md:block"
-          exact>
-          Service
+          exact
+        >Service
+          <svg xmlns="http://www.w3.org/2000/svg"
+            width="24" height="24" 
+            viewBox="0 0 24 24" 
+            fill="none" 
+            stroke="currentColor" 
+            stroke-width="2" 
+            stroke-linecap="round" 
+            stroke-linejoin="round" 
+            class="svg-right feather feather-align-justify"
+          >
+            <line x1="21" y1="10" x2="3" y2="10"/>
+            <line x1="21" y1="6" x2="3" y2="6"/>
+            <line x1="21" y1="14" x2="3" y2="14"/>
+            <line x1="21" y1="18" x2="3" y2="18"/>
+          </svg>
         </g-link>
 
         <g-link
@@ -101,3 +163,10 @@ query {
   }
 }
 </static-query>
+
+<style scoped>
+  .svg-right {
+    float:right;
+    margin-top:3px;
+  }
+</style>
