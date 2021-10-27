@@ -63,10 +63,24 @@ body{font-family: system-ui;}
 /* 마크다운 none, block 끝 */
 
 
-/* 마크다운 텍스트 컬러 */
+
+
+/* 마크다운 텍스트 시작 */
 .md-p-color {
     color:#999999;
 }
+
+.md-p-center {
+    display:block;
+    text-align:center;
+}
+
+.md-sub-title-margin {
+    margin-top: 100px !important;
+    margin-bottom:-30px !important;
+}
+
+/* 마크다운 텍스트 끝 */
 
 
 /* 마크다운 이미지, 텍스트 좌우 정렬 시작 */
