@@ -8,7 +8,7 @@
         <g-image src="../../../img/logo_color.png"></g-image>
       </g-link>
 
-      <nav class="header-links ml-auto flex flex-wrap items-center text-xl justify-center">
+      <nav style="font-weight:300;" class="header-links ml-auto flex flex-wrap items-center text-xl justify-center">
         <g-link
           to="/"
           class="mr-5 hidden md:block"
