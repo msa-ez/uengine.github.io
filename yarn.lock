@@ -4314,7 +4314,7 @@
     "globby" "^6.1.0"
 
 "git-hooks-list@1.0.3":
-  "integrity" "sha512-Y7wLWcrLUXwk2noSka166byGCvhMtDRpgHdzCno1UQv/Hegp++a2xBWJL1lJarnKD3SWaljD+0z1ztqxuKyQ=="
+  "integrity" "sha512-Y7wLWcrLUXwk2noSka166byGCvhMtDRpgHdzCno1UQv/n/Hegp++a2xBWJL1lJarnKD3SWaljD+0z1ztqxuKyQ=="
   "version" "1.0.3"
 
 "github-from-package@0.0.0":
