@@ -38,6 +38,7 @@ module.exports = {
       precomposed: true
     }
   },
+  siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : 'https://www.uengine.io'),
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
