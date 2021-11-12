@@ -39,6 +39,11 @@ module.exports = {
     }
   },
   siteUrl: (process.env.SITE_URL ? process.env.SITE_URL : 'https://www.uengine.io'),
+  settings: {
+    web: process.env.URL_WEB || false,
+    twitter: process.env.URL_TWITTER || false,
+    github: process.env.URL_GITHUB || false,
+  },
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
