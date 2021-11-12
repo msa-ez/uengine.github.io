@@ -1,6 +1,6 @@
 <template>
 <div>
-    <footer class="is-pc-footer"
+    <div class="is-pc-footer"
       style = "width:100%;
       height:300px;
       background-color:#1E88E5;"
@@ -14,9 +14,9 @@
         <div>Copyright © 2017 uEngine &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; All Rights Reserved &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Designed By Sppark &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Address 서울 서초구 신반포로45길 18 주일빌딩 501호</div>
         <div>Email : help@uengine.org</div>
       </div>
-    </footer>
+    </div>
     <!-- 모바일 footer -->
-    <footer 
+    <div 
       style = "width:100%;
       height:300px;
       background-color:#1E88E5;"
@@ -31,7 +31,7 @@
         <div>Copyright © 2017 uEngine <br> All Rights Reserved <br> Designed By Sppark <br> Address 서울 서초구 신반포로45길 18 주일빌딩 501호</div>
         <div>Email : help@uengine.org</div>
       </div>
-    </footer>
+    </div>
   </div>
 </template>
 
