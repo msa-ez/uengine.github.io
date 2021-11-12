@@ -1,9 +1,7 @@
 <template>
 <div>
     <div class="is-pc-footer"
-      style = "width:100%;
-      height:300px;
-      background-color:#1E88E5;"
+      style = "width:100%; height:300px; background-color:#1E88E5;"
     >
       <div class="flex logo-style">
         <div>
@@ -17,9 +15,7 @@
     </div>
     <!-- 모바일 footer -->
     <div 
-      style = "width:100%;
-      height:300px;
-      background-color:#1E88E5;"
+      style = "width:100%; height:300px; background-color:#1E88E5;"
       class="is-mobile-footer"
     >
       <div class="flex logo-style">
